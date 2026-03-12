@@ -124,10 +124,10 @@ class CostComparison:
 
 
 def main():
-    relic_levels = {'atk':    600,
-                    'mp':     160,
-                    'mboost': 800,
-                    'dm':     600}
+    relic_levels = {'atk':    1100,
+                    'mp':     200,
+                    'mboost': 1400,
+                    'dm':     1100}
     armor = Equipment(mp=65)
     weapon = Equipment(atk=145, mp=145)
     accessory1 = Equipment()
